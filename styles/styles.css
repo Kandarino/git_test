@@ -1,3 +1,6 @@
+/*
+Disabling but want to keep because I'm proud, god damnit.
+
 p {
     color: red;
 }
@@ -6,3 +9,48 @@ h5 {
     width: 500px;
     border: 1px dotted yellowgreen;
 }
+*/
+/*
+Copy pasted from mozilla's getting started guide (CSS_basics)
+*/
+
+html {
+    font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Open Sans', sans-serif; /* this should be the rest of the output you got from Google fonts */
+    background-color: rgb(204, 204, 204)
+  }
+/*
+More copy paste stuff crom CSS_basics. It's self explanatory. Though it doesn't seem to be working.
+*/
+h1 {
+    margin: 0;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(154, 154, 255)
+    padding: 20px 0;    
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+   }
+  h2{
+      text-align: center;
+      padding: 10px 0;
+      color: rgb(154, 192, 83);
+      text-shadow: 2px 2px 1px black;
+      font-size: 30px;
+  }
+  p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  img {
+      display: block;
+      margin: 0 auto;
+  ]
